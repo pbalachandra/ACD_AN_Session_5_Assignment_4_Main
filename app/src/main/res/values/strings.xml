@@ -1,0 +1,15 @@
+<resources>
+    <string name="login_screen">Login Screen</string>
+    <string name="welcome_screen">Welcome Screen</string>
+    <string name="user">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">Not a member? Sign up now.</string>
+    <string name="blank_user">Enter User Name</string>
+    <string name="blank_email">Enter your Email Id</string>
+    <string name="blank_password">Enter your Password</string>
+    <string name="invalid_email">Invalid Email Id</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="welcome_user">Welcome \n %1$s </string>
+</resources>
